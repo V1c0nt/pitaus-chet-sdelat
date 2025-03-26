@@ -1,0 +1,4 @@
+C:\Users\Vovan\source\repos\Создание конструкторов\Создание конструкторов\obj\Debug\net8.0\Создание конструкторов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vovan\source\repos\Создание конструкторов\Создание конструкторов\obj\Debug\net8.0\Создание конструкторов.AssemblyInfoInputs.cache
+C:\Users\Vovan\source\repos\Создание конструкторов\Создание конструкторов\obj\Debug\net8.0\Создание конструкторов.AssemblyInfo.cs
+C:\Users\Vovan\source\repos\Создание конструкторов\Создание конструкторов\obj\Debug\net8.0\Создание конструкторов.csproj.CoreCompileInputs.cache
